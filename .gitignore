@@ -1,4 +1,13 @@
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
-profile_default/
-ipython_config.py
+*~
+handwritting/*
+dataset/*
+credentials.json
+logs/*
+nohup.out
+model_checkpoint/*.params
+*.bin.gz
+*__pycache__*
+tmp/*
+ocr/utils/sctk-*/
+models/*
